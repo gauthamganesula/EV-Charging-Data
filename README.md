@@ -21,6 +21,4 @@ The boxplot revealed that most vehicle models had a median charging cost between
 
 
 
-Conclusion:
 
-This project provided valuable insights into typical EV charging behaviors, with moderate energy consumption being the norm across different vehicle models and charging sessions. While some outliers in charging costs and durations were observed, the overall pattern remains consistent. The weak correlations indicate that no single factor dominates the EV charging process, and further exploration of other variables may be necessary to deepen our understanding of EV charging behavior.
